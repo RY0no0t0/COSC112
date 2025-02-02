@@ -1,0 +1,1 @@
+public class OffTheGridException extends Exception {}
